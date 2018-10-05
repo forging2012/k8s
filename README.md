@@ -1,7 +1,7 @@
 # k8s
 Kubernetes images.
 
-## v1.12.0 images
+## v1.12.0 images（使用示例DEMO）
 
 ### 需要下载的镜像
 ```
