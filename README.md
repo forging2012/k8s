@@ -1,7 +1,7 @@
 # k8s
 Kubernetes images.
 
-## docker hub URL
+## Docker Hub URL
 https://hub.docker.com/r/forging2012/k8s/
 
 ## v1.12.0 images（使用示例DEMO）
