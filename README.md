@@ -25,6 +25,7 @@ docker pull forging2012/k8s:pause-3.1
 docker pull forging2012/k8s:coredns-1.2.2
 ```
 
+### 一键加速下载镜像
 ```
 docker pull forging2012/k8s:kube-apiserver-v1.12.0 \
 && docker tag forging2012/k8s:kube-apiserver-v1.12.0 k8s.gcr.io/kube-apiserver:v1.12.0 \
